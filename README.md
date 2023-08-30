@@ -1,4 +1,4 @@
-# PROJETO REACT-MULTIPARTEFORM do Frontend da Alura + Oracle com Tutorial do Instrutor Ricardo Bugan Debs
+# PROJETO REACT-MULTIPARTEFORM do Frontend da Alura | Oracle com Tutorial do Instrutor Ricardo Bugan Debs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
